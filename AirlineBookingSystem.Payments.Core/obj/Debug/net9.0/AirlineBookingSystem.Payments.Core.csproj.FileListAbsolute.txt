@@ -1,0 +1,11 @@
+/Users/dilekoturak/Desktop/AirlineBookingSystem/AirlineBookingSystem/AirlineBookingSystem.Payments.Core/bin/Debug/net9.0/AirlineBookingSystem.Payments.Core.deps.json
+/Users/dilekoturak/Desktop/AirlineBookingSystem/AirlineBookingSystem/AirlineBookingSystem.Payments.Core/bin/Debug/net9.0/AirlineBookingSystem.Payments.Core.dll
+/Users/dilekoturak/Desktop/AirlineBookingSystem/AirlineBookingSystem/AirlineBookingSystem.Payments.Core/bin/Debug/net9.0/AirlineBookingSystem.Payments.Core.pdb
+/Users/dilekoturak/Desktop/AirlineBookingSystem/AirlineBookingSystem/AirlineBookingSystem.Payments.Core/obj/Debug/net9.0/AirlineBookingSystem.Payments.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dilekoturak/Desktop/AirlineBookingSystem/AirlineBookingSystem/AirlineBookingSystem.Payments.Core/obj/Debug/net9.0/AirlineBookingSystem.Payments.Core.AssemblyInfoInputs.cache
+/Users/dilekoturak/Desktop/AirlineBookingSystem/AirlineBookingSystem/AirlineBookingSystem.Payments.Core/obj/Debug/net9.0/AirlineBookingSystem.Payments.Core.AssemblyInfo.cs
+/Users/dilekoturak/Desktop/AirlineBookingSystem/AirlineBookingSystem/AirlineBookingSystem.Payments.Core/obj/Debug/net9.0/AirlineBookingSystem.Payments.Core.csproj.CoreCompileInputs.cache
+/Users/dilekoturak/Desktop/AirlineBookingSystem/AirlineBookingSystem/AirlineBookingSystem.Payments.Core/obj/Debug/net9.0/AirlineBookingSystem.Payments.Core.dll
+/Users/dilekoturak/Desktop/AirlineBookingSystem/AirlineBookingSystem/AirlineBookingSystem.Payments.Core/obj/Debug/net9.0/refint/AirlineBookingSystem.Payments.Core.dll
+/Users/dilekoturak/Desktop/AirlineBookingSystem/AirlineBookingSystem/AirlineBookingSystem.Payments.Core/obj/Debug/net9.0/AirlineBookingSystem.Payments.Core.pdb
+/Users/dilekoturak/Desktop/AirlineBookingSystem/AirlineBookingSystem/AirlineBookingSystem.Payments.Core/obj/Debug/net9.0/ref/AirlineBookingSystem.Payments.Core.dll

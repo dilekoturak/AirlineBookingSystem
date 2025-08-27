@@ -1,0 +1,15 @@
+/Users/dilekoturak/Desktop/AirlineBookingSystem/AirlineBookingSystem/AirlineBookingSystem.Flights.Application/bin/Debug/net9.0/AirlineBookingSystem.Flights.Application.deps.json
+/Users/dilekoturak/Desktop/AirlineBookingSystem/AirlineBookingSystem/AirlineBookingSystem.Flights.Application/bin/Debug/net9.0/AirlineBookingSystem.Flights.Application.dll
+/Users/dilekoturak/Desktop/AirlineBookingSystem/AirlineBookingSystem/AirlineBookingSystem.Flights.Application/bin/Debug/net9.0/AirlineBookingSystem.Flights.Application.pdb
+/Users/dilekoturak/Desktop/AirlineBookingSystem/AirlineBookingSystem/AirlineBookingSystem.Flights.Application/bin/Debug/net9.0/AirlineBookingSystem.Flights.Core.dll
+/Users/dilekoturak/Desktop/AirlineBookingSystem/AirlineBookingSystem/AirlineBookingSystem.Flights.Application/bin/Debug/net9.0/AirlineBookingSystem.Flights.Core.pdb
+/Users/dilekoturak/Desktop/AirlineBookingSystem/AirlineBookingSystem/AirlineBookingSystem.Flights.Application/obj/Debug/net9.0/AirlineBookingSystem.Flights.Application.csproj.AssemblyReference.cache
+/Users/dilekoturak/Desktop/AirlineBookingSystem/AirlineBookingSystem/AirlineBookingSystem.Flights.Application/obj/Debug/net9.0/AirlineBookingSystem.Flights.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dilekoturak/Desktop/AirlineBookingSystem/AirlineBookingSystem/AirlineBookingSystem.Flights.Application/obj/Debug/net9.0/AirlineBookingSystem.Flights.Application.AssemblyInfoInputs.cache
+/Users/dilekoturak/Desktop/AirlineBookingSystem/AirlineBookingSystem/AirlineBookingSystem.Flights.Application/obj/Debug/net9.0/AirlineBookingSystem.Flights.Application.AssemblyInfo.cs
+/Users/dilekoturak/Desktop/AirlineBookingSystem/AirlineBookingSystem/AirlineBookingSystem.Flights.Application/obj/Debug/net9.0/AirlineBookingSystem.Flights.Application.csproj.CoreCompileInputs.cache
+/Users/dilekoturak/Desktop/AirlineBookingSystem/AirlineBookingSystem/AirlineBookingSystem.Flights.Application/obj/Debug/net9.0/AirlineB.1559686E.Up2Date
+/Users/dilekoturak/Desktop/AirlineBookingSystem/AirlineBookingSystem/AirlineBookingSystem.Flights.Application/obj/Debug/net9.0/AirlineBookingSystem.Flights.Application.dll
+/Users/dilekoturak/Desktop/AirlineBookingSystem/AirlineBookingSystem/AirlineBookingSystem.Flights.Application/obj/Debug/net9.0/refint/AirlineBookingSystem.Flights.Application.dll
+/Users/dilekoturak/Desktop/AirlineBookingSystem/AirlineBookingSystem/AirlineBookingSystem.Flights.Application/obj/Debug/net9.0/AirlineBookingSystem.Flights.Application.pdb
+/Users/dilekoturak/Desktop/AirlineBookingSystem/AirlineBookingSystem/AirlineBookingSystem.Flights.Application/obj/Debug/net9.0/ref/AirlineBookingSystem.Flights.Application.dll

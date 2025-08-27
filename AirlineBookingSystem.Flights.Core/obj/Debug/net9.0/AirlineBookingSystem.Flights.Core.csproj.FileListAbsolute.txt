@@ -1,0 +1,12 @@
+/Users/dilekoturak/Desktop/AirlineBookingSystem/AirlineBookingSystem/AirlineBookingSystem.Flights.Core/bin/Debug/net9.0/AirlineBookingSystem.Flights.Core.deps.json
+/Users/dilekoturak/Desktop/AirlineBookingSystem/AirlineBookingSystem/AirlineBookingSystem.Flights.Core/bin/Debug/net9.0/AirlineBookingSystem.Flights.Core.dll
+/Users/dilekoturak/Desktop/AirlineBookingSystem/AirlineBookingSystem/AirlineBookingSystem.Flights.Core/bin/Debug/net9.0/AirlineBookingSystem.Flights.Core.pdb
+/Users/dilekoturak/Desktop/AirlineBookingSystem/AirlineBookingSystem/AirlineBookingSystem.Flights.Core/obj/Debug/net9.0/AirlineBookingSystem.Flights.Core.csproj.AssemblyReference.cache
+/Users/dilekoturak/Desktop/AirlineBookingSystem/AirlineBookingSystem/AirlineBookingSystem.Flights.Core/obj/Debug/net9.0/AirlineBookingSystem.Flights.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dilekoturak/Desktop/AirlineBookingSystem/AirlineBookingSystem/AirlineBookingSystem.Flights.Core/obj/Debug/net9.0/AirlineBookingSystem.Flights.Core.AssemblyInfoInputs.cache
+/Users/dilekoturak/Desktop/AirlineBookingSystem/AirlineBookingSystem/AirlineBookingSystem.Flights.Core/obj/Debug/net9.0/AirlineBookingSystem.Flights.Core.AssemblyInfo.cs
+/Users/dilekoturak/Desktop/AirlineBookingSystem/AirlineBookingSystem/AirlineBookingSystem.Flights.Core/obj/Debug/net9.0/AirlineBookingSystem.Flights.Core.csproj.CoreCompileInputs.cache
+/Users/dilekoturak/Desktop/AirlineBookingSystem/AirlineBookingSystem/AirlineBookingSystem.Flights.Core/obj/Debug/net9.0/AirlineBookingSystem.Flights.Core.dll
+/Users/dilekoturak/Desktop/AirlineBookingSystem/AirlineBookingSystem/AirlineBookingSystem.Flights.Core/obj/Debug/net9.0/refint/AirlineBookingSystem.Flights.Core.dll
+/Users/dilekoturak/Desktop/AirlineBookingSystem/AirlineBookingSystem/AirlineBookingSystem.Flights.Core/obj/Debug/net9.0/AirlineBookingSystem.Flights.Core.pdb
+/Users/dilekoturak/Desktop/AirlineBookingSystem/AirlineBookingSystem/AirlineBookingSystem.Flights.Core/obj/Debug/net9.0/ref/AirlineBookingSystem.Flights.Core.dll

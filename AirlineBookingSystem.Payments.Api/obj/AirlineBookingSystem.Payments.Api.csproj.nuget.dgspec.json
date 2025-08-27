@@ -1,0 +1,368 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/dilekoturak/Desktop/AirlineBookingSystem/AirlineBookingSystem.Payments.Api/AirlineBookingSystem.Payments.Api.csproj": {}
+  },
+  "projects": {
+    "/Users/dilekoturak/Desktop/AirlineBookingSystem/AirlineBookingSystem.BuildingBlocks/AirlineBookingSystem.BuildingBlocks.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/dilekoturak/Desktop/AirlineBookingSystem/AirlineBookingSystem.BuildingBlocks/AirlineBookingSystem.BuildingBlocks.csproj",
+        "projectName": "AirlineBookingSystem.BuildingBlocks",
+        "projectPath": "/Users/dilekoturak/Desktop/AirlineBookingSystem/AirlineBookingSystem.BuildingBlocks/AirlineBookingSystem.BuildingBlocks.csproj",
+        "packagesPath": "/Users/dilekoturak/.nuget/packages/",
+        "outputPath": "/Users/dilekoturak/Desktop/AirlineBookingSystem/AirlineBookingSystem.BuildingBlocks/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/dilekoturak/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.304/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/dilekoturak/Desktop/AirlineBookingSystem/AirlineBookingSystem.Payments.Api/AirlineBookingSystem.Payments.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/dilekoturak/Desktop/AirlineBookingSystem/AirlineBookingSystem.Payments.Api/AirlineBookingSystem.Payments.Api.csproj",
+        "projectName": "AirlineBookingSystem.Payments.Api",
+        "projectPath": "/Users/dilekoturak/Desktop/AirlineBookingSystem/AirlineBookingSystem.Payments.Api/AirlineBookingSystem.Payments.Api.csproj",
+        "packagesPath": "/Users/dilekoturak/.nuget/packages/",
+        "outputPath": "/Users/dilekoturak/Desktop/AirlineBookingSystem/AirlineBookingSystem.Payments.Api/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/dilekoturak/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "/Users/dilekoturak/Desktop/AirlineBookingSystem/AirlineBookingSystem.BuildingBlocks/AirlineBookingSystem.BuildingBlocks.csproj": {
+                "projectPath": "/Users/dilekoturak/Desktop/AirlineBookingSystem/AirlineBookingSystem.BuildingBlocks/AirlineBookingSystem.BuildingBlocks.csproj"
+              },
+              "/Users/dilekoturak/Desktop/AirlineBookingSystem/AirlineBookingSystem.Payments.Application/AirlineBookingSystem.Payments.Application.csproj": {
+                "projectPath": "/Users/dilekoturak/Desktop/AirlineBookingSystem/AirlineBookingSystem.Payments.Application/AirlineBookingSystem.Payments.Application.csproj"
+              },
+              "/Users/dilekoturak/Desktop/AirlineBookingSystem/AirlineBookingSystem.Payments.Core/AirlineBookingSystem.Payments.Core.csproj": {
+                "projectPath": "/Users/dilekoturak/Desktop/AirlineBookingSystem/AirlineBookingSystem.Payments.Core/AirlineBookingSystem.Payments.Core.csproj"
+              },
+              "/Users/dilekoturak/Desktop/AirlineBookingSystem/AirlineBookingSystem.Payments.Infrastructure/AirlineBookingSystem.Payments.Infrastructure.csproj": {
+                "projectPath": "/Users/dilekoturak/Desktop/AirlineBookingSystem/AirlineBookingSystem.Payments.Infrastructure/AirlineBookingSystem.Payments.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "MassTransit": {
+              "target": "Package",
+              "version": "[8.3.4, )"
+            },
+            "MassTransit.RabbitMQ": {
+              "target": "Package",
+              "version": "[8.3.4, )"
+            },
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[5.2.2, )"
+            },
+            "Npgsql": {
+              "target": "Package",
+              "version": "[9.0.2, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.6.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.304/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/dilekoturak/Desktop/AirlineBookingSystem/AirlineBookingSystem.Payments.Application/AirlineBookingSystem.Payments.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/dilekoturak/Desktop/AirlineBookingSystem/AirlineBookingSystem.Payments.Application/AirlineBookingSystem.Payments.Application.csproj",
+        "projectName": "AirlineBookingSystem.Payments.Application",
+        "projectPath": "/Users/dilekoturak/Desktop/AirlineBookingSystem/AirlineBookingSystem.Payments.Application/AirlineBookingSystem.Payments.Application.csproj",
+        "packagesPath": "/Users/dilekoturak/.nuget/packages/",
+        "outputPath": "/Users/dilekoturak/Desktop/AirlineBookingSystem/AirlineBookingSystem.Payments.Application/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/dilekoturak/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "/Users/dilekoturak/Desktop/AirlineBookingSystem/AirlineBookingSystem.BuildingBlocks/AirlineBookingSystem.BuildingBlocks.csproj": {
+                "projectPath": "/Users/dilekoturak/Desktop/AirlineBookingSystem/AirlineBookingSystem.BuildingBlocks/AirlineBookingSystem.BuildingBlocks.csproj"
+              },
+              "/Users/dilekoturak/Desktop/AirlineBookingSystem/AirlineBookingSystem.Payments.Core/AirlineBookingSystem.Payments.Core.csproj": {
+                "projectPath": "/Users/dilekoturak/Desktop/AirlineBookingSystem/AirlineBookingSystem.Payments.Core/AirlineBookingSystem.Payments.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "MassTransit": {
+              "target": "Package",
+              "version": "[8.3.4, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.4.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.304/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/dilekoturak/Desktop/AirlineBookingSystem/AirlineBookingSystem.Payments.Core/AirlineBookingSystem.Payments.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/dilekoturak/Desktop/AirlineBookingSystem/AirlineBookingSystem.Payments.Core/AirlineBookingSystem.Payments.Core.csproj",
+        "projectName": "AirlineBookingSystem.Payments.Core",
+        "projectPath": "/Users/dilekoturak/Desktop/AirlineBookingSystem/AirlineBookingSystem.Payments.Core/AirlineBookingSystem.Payments.Core.csproj",
+        "packagesPath": "/Users/dilekoturak/.nuget/packages/",
+        "outputPath": "/Users/dilekoturak/Desktop/AirlineBookingSystem/AirlineBookingSystem.Payments.Core/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/dilekoturak/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.304/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/dilekoturak/Desktop/AirlineBookingSystem/AirlineBookingSystem.Payments.Infrastructure/AirlineBookingSystem.Payments.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/dilekoturak/Desktop/AirlineBookingSystem/AirlineBookingSystem.Payments.Infrastructure/AirlineBookingSystem.Payments.Infrastructure.csproj",
+        "projectName": "AirlineBookingSystem.Payments.Infrastructure",
+        "projectPath": "/Users/dilekoturak/Desktop/AirlineBookingSystem/AirlineBookingSystem.Payments.Infrastructure/AirlineBookingSystem.Payments.Infrastructure.csproj",
+        "packagesPath": "/Users/dilekoturak/.nuget/packages/",
+        "outputPath": "/Users/dilekoturak/Desktop/AirlineBookingSystem/AirlineBookingSystem.Payments.Infrastructure/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/dilekoturak/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "/Users/dilekoturak/Desktop/AirlineBookingSystem/AirlineBookingSystem.Payments.Core/AirlineBookingSystem.Payments.Core.csproj": {
+                "projectPath": "/Users/dilekoturak/Desktop/AirlineBookingSystem/AirlineBookingSystem.Payments.Core/AirlineBookingSystem.Payments.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.1.35, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.304/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
